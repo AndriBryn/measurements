@@ -1,0 +1,3027 @@
+{
+  "metadata": {
+    "generatedAt": "2026-04-13T13:48:04.519Z",
+    "sourceDir": "c:\\Users\\Notandi\\Desktop\\PerformancePage\\website\\public\\data",
+    "counts": {
+      "exercises": 34,
+      "trendlines": 22,
+      "clubs": 29
+    },
+    "ageGenderKeys": [
+      "m9",
+      "f9",
+      "m10",
+      "f10",
+      "m11",
+      "f11",
+      "m12",
+      "f12",
+      "m13",
+      "f13",
+      "m14",
+      "f14",
+      "m15",
+      "f15",
+      "m16",
+      "f16",
+      "m17",
+      "f17",
+      "m18",
+      "f18"
+    ]
+  },
+  "data": {
+    "soccer_arrowhead_agility_dribbling": {
+      "name": "soccer_arrowhead_agility_dribbling",
+      "title": "Arrowhead agility dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 13.81265,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 14.04695456,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 13.24345237,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 13.8274086,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 12.96089791,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 13.6402992,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 12.40738294,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 13.15448056,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 12.0571012,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 12.82260709,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 11.87881937,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 12.44306776,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 11.44004115,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 12.03025678,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 10.70681119,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 11.71570535,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 10.82448289,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 11.64548482,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 11.264,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 11.10574001,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_wide_dribbling": {
+      "name": "soccer_wide_dribbling",
+      "title": "Wide dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 13,
+          "stddev": 0.245821237
+        },
+        "f9": {
+          "mean": 15.54,
+          "stddev": 0.241034646
+        },
+        "m10": {
+          "mean": 12.7,
+          "stddev": 0.242258651
+        },
+        "f10": {
+          "mean": 15.665,
+          "stddev": 0.260528081
+        },
+        "m11": {
+          "mean": 12.3,
+          "stddev": 0.240003686
+        },
+        "f11": {
+          "mean": 12.666,
+          "stddev": 0.320354015
+        },
+        "m12": {
+          "mean": 11.5,
+          "stddev": 0.247830741
+        },
+        "f12": {
+          "mean": 14.735,
+          "stddev": 0.229680417
+        },
+        "m13": {
+          "mean": 12.06,
+          "stddev": 0.284830719
+        },
+        "f13": {
+          "mean": 14.25,
+          "stddev": 0.241415636
+        },
+        "m14": {
+          "mean": 12.09,
+          "stddev": 0.20744795
+        },
+        "f14": {
+          "mean": 14.03,
+          "stddev": 0.203686424
+        },
+        "m15": {
+          "mean": 12.2,
+          "stddev": 0.216815126
+        },
+        "f15": {
+          "mean": 14.02,
+          "stddev": 0.226767548
+        },
+        "m16": {
+          "mean": 11.69,
+          "stddev": 0.287385242
+        },
+        "f16": {
+          "mean": 13.3,
+          "stddev": 0.20847208
+        },
+        "m17": {
+          "mean": 11.36,
+          "stddev": 0.207565705
+        },
+        "f17": {
+          "mean": 11.62,
+          "stddev": 0.240022831
+        },
+        "m18": {
+          "mean": 11.28,
+          "stddev": 0.233364813
+        },
+        "f18": {
+          "mean": 11.4,
+          "stddev": 0.238961828
+        }
+      }
+    },
+    "soccer_penalty_box_mushroom_dribbling": {
+      "name": "soccer_penalty_box_mushroom_dribbling",
+      "title": "Penalty box mushroom dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 24.28753844,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 24.67171553,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 23.35425442,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 24.31173734,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 22.89096445,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 24.0049437,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 21.98339449,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 23.20837193,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 21.40905558,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 22.66421612,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 21.11673606,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 22.04190506,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 20.39729404,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 21.36504018,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 19.19505468,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 20.84928641,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 19.3879949,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 20.73414942,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 18.469,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 19.84915769,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_penalty_box_hourglass_dribbling": {
+      "name": "soccer_penalty_box_hourglass_dribbling",
+      "title": "Penalty box hourglass dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 24.43219322,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 24.81865845,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 23.49335064,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 24.45653625,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 23.02730134,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 24.14791538,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 22.11432596,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 23.34659928,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 21.53656633,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 22.79920252,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 21.24250578,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 22.17318501,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 20.51877881,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 21.49228878,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 19.30937901,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 20.97346322,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 19.50346836,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 20.85764048,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 18.579,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 19.96737781,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_fast_dribbling": {
+      "name": "soccer_fast_dribbling",
+      "title": "Fast dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 12.39691509,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 12.59300787,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 11.92054559,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 12.40926677,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 11.68407179,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 12.25267228,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 11.22082732,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 11.84608383,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 10.92767161,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 11.56833425,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 10.77846504,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 11.25069246,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 10.41124538,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 10.90520514,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 9.797594915,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 10.64195262,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 9.896076013,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 10.58318407,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 9.427,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 10.13146405,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_penalty_box_wide_dribbling": {
+      "name": "soccer_penalty_box_wide_dribbling",
+      "title": "Penalty box wide dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 23.70891929,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 24.08394387,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 22.79786957,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 23.73254169,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 22.34561688,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 23.43305702,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 21.45966859,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 22.65546254,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 20.89901256,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 22.12427053,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 20.61365718,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 21.51678522,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 19.91135493,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 20.85604577,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 18.73775737,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 20.35257917,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 18.92610103,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 20.24018517,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 18.029,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 19.37627723,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_passing_triple_passing": {
+      "name": "soccer_passing_triple_passing",
+      "title": "Triple passing",
+      "ability": "Accuracy",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 6.032104543,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 6.127519582,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 5.800312147,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 6.038114635,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 5.685248467,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 5.961918716,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 5.459842467,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 5.764080462,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 5.317198437,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 5.62893277,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 5.244597343,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 5.474374275,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 5.065915196,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 5.306266679,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 4.76732448,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 5.178172979,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 4.815243521,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 5.149577313,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 4.587,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 4.929778891,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_passing_triple_passing_pro": {
+      "name": "soccer_passing_triple_passing_pro",
+      "title": "Triple passing pro",
+      "ability": "Accuracy",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 8.910734768,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 9.051683603,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 8.568326817,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 8.919612986,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 8.398352651,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 8.807054986,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 8.065378801,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 8.514804712,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 7.854662439,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 8.315162078,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 7.747414779,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 8.086845452,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 7.483462256,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 7.838513847,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 7.042378608,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 7.649291499,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 7.113165489,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 7.60704946,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 6.776,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 7.282359226,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_shooting_double_shooting": {
+      "name": "soccer_shooting_double_shooting",
+      "title": "Double shooting",
+      "ability": "Accuracy",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 5.829587844,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 5.9217995,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 5.605577447,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 5.835396158,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 5.494376816,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 5.761758376,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 5.276538404,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 5.570562173,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 5.138683381,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 5.439951814,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 5.068519734,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 5.290582333,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 4.895836508,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 5.128118637,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 4.607270421,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 5.004325445,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 4.653580669,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 4.976689825,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 4.433,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 4.764270727,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_t_test": {
+      "name": "soccer_t_test",
+      "title": "T-Test",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 12.733,
+          "stddev": 0.136948473
+        },
+        "f9": {
+          "mean": 12.8,
+          "stddev": 0.094162145
+        },
+        "m10": {
+          "mean": 12.034,
+          "stddev": 0.148866093
+        },
+        "f10": {
+          "mean": 12.624,
+          "stddev": 0.107036198
+        },
+        "m11": {
+          "mean": 11.877,
+          "stddev": 0.133831538
+        },
+        "f11": {
+          "mean": 12.49264286,
+          "stddev": 0.234642359
+        },
+        "m12": {
+          "mean": 11.416,
+          "stddev": 0.150940141
+        },
+        "f12": {
+          "mean": 12.493,
+          "stddev": 0.075383186
+        },
+        "m13": {
+          "mean": 11.104,
+          "stddev": 0.077140275
+        },
+        "f13": {
+          "mean": 12.318,
+          "stddev": 0.096950402
+        },
+        "m14": {
+          "mean": 10.559,
+          "stddev": 0.069366185
+        },
+        "f14": {
+          "mean": 11.586,
+          "stddev": 0.061513282
+        },
+        "m15": {
+          "mean": 10.364,
+          "stddev": 0.074022662
+        },
+        "f15": {
+          "mean": 11.275,
+          "stddev": 0.070196337
+        },
+        "m16": {
+          "mean": 9.629,
+          "stddev": 0.059258233
+        },
+        "f16": {
+          "mean": 10.488,
+          "stddev": 0.073479883
+        },
+        "m17": {
+          "mean": 9.75,
+          "stddev": 0.034498498
+        },
+        "f17": {
+          "mean": 10.3734,
+          "stddev": 0.062966185
+        },
+        "m18": {
+          "mean": 9.425,
+          "stddev": 0.043549217
+        },
+        "f18": {
+          "mean": 10.208,
+          "stddev": 0.034485818
+        }
+      }
+    },
+    "soccer_game_action_running": {
+      "name": "soccer_game_action_running",
+      "title": "Game action running",
+      "ability": "Speed",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 11.42,
+          "stddev": 0.063450584
+        },
+        "f9": {
+          "mean": 12.19,
+          "stddev": 0.076074873
+        },
+        "m10": {
+          "mean": 11.02,
+          "stddev": 0.051987535
+        },
+        "f10": {
+          "mean": 11.665,
+          "stddev": 0.077762412
+        },
+        "m11": {
+          "mean": 10.79,
+          "stddev": 0.050344378
+        },
+        "f11": {
+          "mean": 11.02,
+          "stddev": 0.03723839
+        },
+        "m12": {
+          "mean": 10.41,
+          "stddev": 0.047428648
+        },
+        "f12": {
+          "mean": 10.81,
+          "stddev": 0.034122212
+        },
+        "m13": {
+          "mean": 10.16,
+          "stddev": 0.061115909
+        },
+        "f13": {
+          "mean": 10.535,
+          "stddev": 0.064741666
+        },
+        "m14": {
+          "mean": 9.96,
+          "stddev": 0.065696134
+        },
+        "f14": {
+          "mean": 10.46,
+          "stddev": 0.02944655
+        },
+        "m15": {
+          "mean": 9.56,
+          "stddev": 0.051795322
+        },
+        "f15": {
+          "mean": 10.36,
+          "stddev": 0.04440194
+        },
+        "m16": {
+          "mean": 9.59,
+          "stddev": 0.057190947
+        },
+        "f16": {
+          "mean": 10.64,
+          "stddev": 0.051313397
+        },
+        "m17": {
+          "mean": 9.36,
+          "stddev": 0.082246835
+        },
+        "f17": {
+          "mean": 9.88,
+          "stddev": 0.018098845
+        },
+        "m18": {
+          "mean": 9.39,
+          "stddev": 0.089318012
+        },
+        "f18": {
+          "mean": 9.985,
+          "stddev": 0.062863382
+        }
+      }
+    },
+    "soccer_penalty_box_t_test": {
+      "name": "soccer_penalty_box_t_test",
+      "title": "Penalty box T-Test",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 14.13277251,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 14.35632286,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 13.58970016,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 14.14685371,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 13.32011451,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 13.96833234,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 12.79200501,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 13.50481202,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 12.45780065,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 13.18817102,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 12.28770169,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 12.82605196,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 11.8690627,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 12.43218836,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 11.16948685,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 12.13207434,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 11.2817576,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 12.06507682,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 10.747,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 11.55010546,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_penalty_box_5_0_5_agility": {
+      "name": "soccer_penalty_box_5_0_5_agility",
+      "title": "Penalty box 5-0-5 agility",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 3.312594581,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 3.364992768,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 3.185303313,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 3.315895087,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 3.122114866,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 3.274051285,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 2.998330755,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 3.165406297,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 2.919996264,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 3.0911885,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 2.880126598,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 3.006311053,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 2.78200139,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 2.913992972,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 2.618027113,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 2.84364895,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 2.644342365,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 2.827945335,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 2.519,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 2.707240686,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_arrowhead_agility": {
+      "name": "soccer_arrowhead_agility",
+      "title": "Arrowhead agility",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 11.80383047,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 11.99054192,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 11.35025111,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 11.81559123,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 11.12509053,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 11.66648842,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 10.68400828,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 11.2793517,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 10.40487752,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 11.01489003,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 10.26280919,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 10.71244462,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 9.913157793,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 10.38348588,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 9.328865169,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 10.1328277,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 9.422634804,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 10.07687071,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 8.976,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 9.646761571,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_5_0_5_agility": {
+      "name": "soccer_5_0_5_agility",
+      "title": "5-0-5 agility",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 3.097048426,
+          "stddev": 0.154176614
+        },
+        "f9": {
+          "mean": 3.099048426,
+          "stddev": 0.15611395
+        },
+        "m10": {
+          "mean": 2.8963075267,
+          "stddev": 0.153560931
+        },
+        "f10": {
+          "mean": 2.993075267,
+          "stddev": 0.15611395
+        },
+        "m11": {
+          "mean": 2.857220006,
+          "stddev": 0.156027934
+        },
+        "f11": {
+          "mean": 2.897220006,
+          "stddev": 0.15611395
+        },
+        "m12": {
+          "mean": 2.790057853,
+          "stddev": 0.158212556
+        },
+        "f12": {
+          "mean": 2.890057853,
+          "stddev": 0.15611395
+        },
+        "m13": {
+          "mean": 2.694029756,
+          "stddev": 0.154804707
+        },
+        "f13": {
+          "mean": 2.794029756,
+          "stddev": 0.15611395
+        },
+        "m14": {
+          "mean": 2.693590893,
+          "stddev": 0.150820739
+        },
+        "f14": {
+          "mean": 2.79802327,
+          "stddev": 0.150922667
+        },
+        "m15": {
+          "mean": 2.693141821,
+          "stddev": 0.15091554
+        },
+        "f15": {
+          "mean": 2.693141821,
+          "stddev": 0.15611395
+        },
+        "m16": {
+          "mean": 2.49200728,
+          "stddev": 0.151429722
+        },
+        "f16": {
+          "mean": 2.694414739,
+          "stddev": 0.158179056
+        },
+        "m17": {
+          "mean": 2.697188743,
+          "stddev": 0.151001961
+        },
+        "f17": {
+          "mean": 2.797188743,
+          "stddev": 0.15611395
+        },
+        "m18": {
+          "mean": 2.910001054,
+          "stddev": 0.154241686
+        },
+        "f18": {
+          "mean": 2.798081132,
+          "stddev": 0.154464975
+        }
+      }
+    },
+    "soccer_30m_sprint": {
+      "name": "soccer_30m_sprint",
+      "title": "30 meters sprint",
+      "ability": "Speed",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 5.869210526,
+          "stddev": 0.067944078
+        },
+        "f9": {
+          "mean": 6.069210526,
+          "stddev": 0.067944078
+        },
+        "m10": {
+          "mean": 5.769210526,
+          "stddev": 0.067944078
+        },
+        "f10": {
+          "mean": 5.969210526,
+          "stddev": 0.056973455
+        },
+        "m11": {
+          "mean": 5.649847826,
+          "stddev": 0.075677625
+        },
+        "f11": {
+          "mean": 5.9545,
+          "stddev": 0.080334942
+        },
+        "m12": {
+          "mean": 5.288312883,
+          "stddev": 0.060433055
+        },
+        "f12": {
+          "mean": 5.470471264,
+          "stddev": 0.07924464
+        },
+        "m13": {
+          "mean": 5.160324219,
+          "stddev": 0.072709486
+        },
+        "f13": {
+          "mean": 5.3042,
+          "stddev": 0.051156385
+        },
+        "m14": {
+          "mean": 5.149450704,
+          "stddev": 0.072463701
+        },
+        "f14": {
+          "mean": 5.105821782,
+          "stddev": 0.055571876
+        },
+        "m15": {
+          "mean": 4.891821192,
+          "stddev": 0.101651618
+        },
+        "f15": {
+          "mean": 4.96374026,
+          "stddev": 0.044668857
+        },
+        "m16": {
+          "mean": 4.567107843,
+          "stddev": 0.078583944
+        },
+        "f16": {
+          "mean": 4.867706897,
+          "stddev": 0.051721903
+        },
+        "m17": {
+          "mean": 4.362,
+          "stddev": 0.029886229
+        },
+        "f17": {
+          "mean": 4.816142857,
+          "stddev": 0.04413943
+        },
+        "m18": {
+          "mean": 4.233,
+          "stddev": 0.050262694
+        },
+        "f18": {
+          "mean": 4.568,
+          "stddev": 0.067944078
+        }
+      }
+    },
+    "soccer_20m_sprint": {
+      "name": "soccer_20m_sprint",
+      "title": "20 meters sprint",
+      "ability": "Speed",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 5.869210526,
+          "stddev": 0.067944078
+        },
+        "f9": {
+          "mean": 6.069210526,
+          "stddev": 0.067944078
+        },
+        "m10": {
+          "mean": 5.769210526,
+          "stddev": 0.067944078
+        },
+        "f10": {
+          "mean": 5.969210526,
+          "stddev": 0.056973455
+        },
+        "m11": {
+          "mean": 5.649847826,
+          "stddev": 0.075677625
+        },
+        "f11": {
+          "mean": 5.9545,
+          "stddev": 0.080334942
+        },
+        "m12": {
+          "mean": 5.288312883,
+          "stddev": 0.060433055
+        },
+        "f12": {
+          "mean": 5.470471264,
+          "stddev": 0.07924464
+        },
+        "m13": {
+          "mean": 5.160324219,
+          "stddev": 0.072709486
+        },
+        "f13": {
+          "mean": 5.3042,
+          "stddev": 0.051156385
+        },
+        "m14": {
+          "mean": 5.149450704,
+          "stddev": 0.072463701
+        },
+        "f14": {
+          "mean": 5.105821782,
+          "stddev": 0.055571876
+        },
+        "m15": {
+          "mean": 4.891821192,
+          "stddev": 0.101651618
+        },
+        "f15": {
+          "mean": 4.96374026,
+          "stddev": 0.044668857
+        },
+        "m16": {
+          "mean": 4.567107843,
+          "stddev": 0.078583944
+        },
+        "f16": {
+          "mean": 4.867706897,
+          "stddev": 0.051721903
+        },
+        "m17": {
+          "mean": 4.362,
+          "stddev": 0.029886229
+        },
+        "f17": {
+          "mean": 4.816142857,
+          "stddev": 0.04413943
+        },
+        "m18": {
+          "mean": 4.233,
+          "stddev": 0.050262694
+        },
+        "f18": {
+          "mean": 4.568,
+          "stddev": 0.067944078
+        }
+      }
+    },
+    "soccer_10m_sprint": {
+      "name": "soccer_10m_sprint",
+      "title": "10 meters sprint",
+      "ability": "Speed",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 1.432082374,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 1.454734865,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 1.377052524,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 1.43350923,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 1.349735248,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 1.415419551,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 1.296221593,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 1.368450757,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 1.262356463,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 1.336365334,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 1.245120232,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 1.299671591,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 1.202699291,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 1.259761154,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 1.131810848,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 1.22935042,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 1.143187311,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 1.22256152,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 1.089,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 1.170379161,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_passing_90deg_passing": {
+      "name": "soccer_passing_90deg_passing",
+      "title": "90 Degree passing",
+      "ability": "Accuracy",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 9.474888431,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 9.624760974,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 9.110802053,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 9.484328743,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 8.930066537,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 9.364644506,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 8.576011549,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 9.053891374,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 8.351954379,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 8.841609028,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 8.237916689,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 8.598837291,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 7.957252885,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 8.334783392,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 7.488243488,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 8.133581058,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 7.563512006,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 8.088664604,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 7.205,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 7.743417683,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_shooting_triple_shooting": {
+      "name": "soccer_shooting_triple_shooting",
+      "title": "Triple shooting",
+      "ability": "Accuracy",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 7.695634573,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 7.817363112,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 7.399918614,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 7.703302124,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 7.253122744,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 7.606092942,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 6.965554419,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 7.353694978,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 6.783572106,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 7.18127634,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 6.690949128,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 6.9840938,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 6.46299013,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 6.769625595,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 6.082054253,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 6.606206295,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 6.143188377,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 6.569724533,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 5.852,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 6.28931024,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_t_test_mini": {
+      "name": "soccer_t_test_mini",
+      "title": "T-Test mini",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 8.028340579,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 8.155331818,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 7.719839908,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 8.036339622,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 7.5666976,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 7.934927788,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 7.266696809,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 7.671617881,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 7.07684684,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 7.491745054,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 6.980219485,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 7.286037704,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 6.742405117,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 7.062297378,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 6.345000207,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 6.891812958,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 6.408777348,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 6.853753978,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 6.105,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 6.56121651,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_arrowhead_agility_mini": {
+      "name": "soccer_arrowhead_agility_mini",
+      "title": "Arrowhead mini",
+      "ability": "Agility",
+      "withBall": false,
+      "stats": {
+        "m9": {
+          "mean": 8.375512063,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 8.507994815,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 8.053670823,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 8.383857011,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 7.893906145,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 8.2780598,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 7.580932347,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 8.00336352,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 7.38287265,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 7.815712408,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 7.282066814,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 7.601109605,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 7.033968581,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 7.367694022,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 6.619378595,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 7.189837302,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 6.685913666,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 7.150132528,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 6.369,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 6.844944792,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_arrowhead_agility_dribbling_mini": {
+      "name": "soccer_arrowhead_agility_dribbling_mini",
+      "title": "Arrowhead agility dribbling Mini",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 11.763161766123,
+          "stddev": 0.4
+        },
+        "f9": {
+          "mean": 11.5378561001,
+          "stddev": 0.4
+        },
+        "m10": {
+          "mean": 10.20966215,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 10.62824015,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 10.007128,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 10.49412071,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 9.610370194,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 10.14588743,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 9.359289335,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 9.908001567,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 9.231497481,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 9.635948964,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 8.916982623,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 9.340047344,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 8.391405679,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 9.114577858,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 8.475752385,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 9.064243999,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 8.074,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 8.6773566,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_t_test_dribbling": {
+      "name": "soccer_t_test_dribbling",
+      "title": "T-Test dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 10.61766123,
+          "stddev": 0.08
+        },
+        "f9": {
+          "mean": 10.78561001,
+          "stddev": 0.08
+        },
+        "m10": {
+          "mean": 10.20966215,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 10.62824015,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 10.007128,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 10.49412071,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 9.610370194,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 10.14588743,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 13.75,
+          "stddev": 0.099
+        },
+        "f13": {
+          "mean": 9.908001567,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 9.231497481,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 9.635948964,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 8.916982623,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 9.340047344,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 8.391405679,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 9.114577858,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 8.475752385,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 9.064243999,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 8.074,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 8.67735661,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_10m_dribbling": {
+      "name": "soccer_10m_dribbling",
+      "title": "10 meters dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 3.0661766123,
+          "stddev": 0.4
+        },
+        "f9": {
+          "mean": 3.4778561001,
+          "stddev": 0.4
+        },
+        "m10": {
+          "mean": 10.20966215,
+          "stddev": 0.08
+        },
+        "f10": {
+          "mean": 10.62824015,
+          "stddev": 0.08
+        },
+        "m11": {
+          "mean": 10.007128,
+          "stddev": 0.08
+        },
+        "f11": {
+          "mean": 10.49412071,
+          "stddev": 0.08
+        },
+        "m12": {
+          "mean": 9.610370194,
+          "stddev": 0.08
+        },
+        "f12": {
+          "mean": 10.14588743,
+          "stddev": 0.08
+        },
+        "m13": {
+          "mean": 9.359289335,
+          "stddev": 0.08
+        },
+        "f13": {
+          "mean": 9.908001567,
+          "stddev": 0.08
+        },
+        "m14": {
+          "mean": 9.231497481,
+          "stddev": 0.08
+        },
+        "f14": {
+          "mean": 9.635948964,
+          "stddev": 0.08
+        },
+        "m15": {
+          "mean": 8.916982623,
+          "stddev": 0.08
+        },
+        "f15": {
+          "mean": 9.340047344,
+          "stddev": 0.08
+        },
+        "m16": {
+          "mean": 8.391405679,
+          "stddev": 0.08
+        },
+        "f16": {
+          "mean": 9.114577858,
+          "stddev": 0.08
+        },
+        "m17": {
+          "mean": 8.475752385,
+          "stddev": 0.08
+        },
+        "f17": {
+          "mean": 9.064243999,
+          "stddev": 0.08
+        },
+        "m18": {
+          "mean": 8.074,
+          "stddev": 0.08
+        },
+        "f18": {
+          "mean": 8.6773566,
+          "stddev": 0.08
+        }
+      }
+    },
+    "soccer_20m_dribbling": {
+      "name": "soccer_20m_dribbling",
+      "title": "20 meters dribbling",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_shuttle_sprint_5m": {
+      "name": "soccer_shuttle_sprint_5m",
+      "title": "Shuttle Sprint 5m",
+      "ability": "Speed",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_shuttle_sprint_10m": {
+      "name": "soccer_shuttle_sprint_10m",
+      "title": "Shuttle Sprint 10m",
+      "ability": "Speed",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_shuttle_sprint_15m": {
+      "name": "soccer_shuttle_sprint_15m",
+      "title": "Shuttle Sprint 15m",
+      "ability": "Speed",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_shuttle_dribble_5m": {
+      "name": "soccer_shuttle_dribble_5m",
+      "title": "Shuttle Dribble 5m",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_shuttle_dribble_10m": {
+      "name": "soccer_shuttle_dribble_10m",
+      "title": "Shuttle Dribble 10m",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_shuttle_dribble_15m": {
+      "name": "soccer_shuttle_dribble_15m",
+      "title": "Shuttle Dribble 15m",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_reactive_turn_sprint": {
+      "name": "soccer_reactive_turn_sprint",
+      "title": "Reactive Turn Sprint",
+      "ability": "Speed",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    },
+    "soccer_reactive_turn_dribble": {
+      "name": "soccer_reactive_turn_dribble",
+      "title": "Reactive Turn Dribble",
+      "ability": "Dribbling",
+      "withBall": true,
+      "stats": {
+        "m9": {
+          "mean": 4.29766123,
+          "stddev": 0.15
+        },
+        "f9": {
+          "mean": 4.64561001,
+          "stddev": 0.15
+        },
+        "m10": {
+          "mean": 4.26966215,
+          "stddev": 0.15
+        },
+        "f10": {
+          "mean": 4.56824015,
+          "stddev": 0.15
+        },
+        "m11": {
+          "mean": 4.107128,
+          "stddev": 0.15
+        },
+        "f11": {
+          "mean": 4.49412071,
+          "stddev": 0.15
+        },
+        "m12": {
+          "mean": 3.95190370194,
+          "stddev": 0.15
+        },
+        "f12": {
+          "mean": 4.38588743,
+          "stddev": 0.15
+        },
+        "m13": {
+          "mean": 3.779289335,
+          "stddev": 0.15
+        },
+        "f13": {
+          "mean": 4.251008001567,
+          "stddev": 0.15
+        },
+        "m14": {
+          "mean": 3.69771497481,
+          "stddev": 0.15
+        },
+        "f14": {
+          "mean": 3.895948964,
+          "stddev": 0.15
+        },
+        "m15": {
+          "mean": 3.56916982623,
+          "stddev": 0.15
+        },
+        "f15": {
+          "mean": 3.84340047344,
+          "stddev": 0.15
+        },
+        "m16": {
+          "mean": 3.569391405679,
+          "stddev": 0.15
+        },
+        "f16": {
+          "mean": 3.839114577858,
+          "stddev": 0.15
+        },
+        "m17": {
+          "mean": 3.559475752385,
+          "stddev": 0.15
+        },
+        "f17": {
+          "mean": 3.829064243999,
+          "stddev": 0.15
+        },
+        "m18": {
+          "mean": 3.549074,
+          "stddev": 0.15
+        },
+        "f18": {
+          "mean": 3.8196773566,
+          "stddev": 0.15
+        }
+      }
+    }
+  }
+}
